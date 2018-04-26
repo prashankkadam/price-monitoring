@@ -1,0 +1,20 @@
+{
+  "name": "flipkart_extension",
+  "version": "1.0.0",
+  "description": "This is flipkart price alerting extension's backend worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appbaseio-apps/price-monitoring-flipkart-backend.git"
+  },
+  "homepage": "https://github.com/appbaseio-apps/price-monitoring-flipkart-frontend",
+  "dependencies": {
+    "appbase-js": "^0.10.7",
+    "express": "^4.13.3",
+    "fs": "0.0.2",
+    "request": "^2.65.0"
+  }
+}
